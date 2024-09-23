@@ -1,6 +1,8 @@
+## DEVELOPED BY: S JAIGANESH
+## REGISTER NUMBER: 212222240037
+## DATE:
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
-### Date: 
-
+ 
 
 # AIM:
 To perform time series analysis and decomposition on monthly average data of a digital currency (USD closing prices) using the multiplicative decomposition model, and visualize its trend, seasonality, and residual components.
@@ -61,18 +63,10 @@ plt.show()
 ```
 
 
-### OUTPUT:
+# OUTPUT:
 ![image](https://github.com/user-attachments/assets/99619216-98e9-439f-aebd-06f8fb6f4455)
 
-SEASONAL PLOT REPRESENTATION :
 
 
-
-TREND PLOT REPRESENTATION :
-
-OVERAL REPRESENTATION:
-
-
-
-### RESULT:
+# RESULT:
 Thus, the python code for time series decomposition was successfully performed on the monthly average close_USD prices of the digital currency.
