@@ -61,7 +61,10 @@ plt.rc('legend', fontsize=12)  # Legend font size
 plt.tight_layout()
 plt.show()
 ```
-
+<<br>
+<br>
+<br>
+<br>
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/99619216-98e9-439f-aebd-06f8fb6f4455)
